@@ -1,0 +1,3 @@
+"""
+Frontend view components package.
+"""

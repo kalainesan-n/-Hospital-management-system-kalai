@@ -1,0 +1,26 @@
+# Environment and local credentials
+.env
+*.env.local
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# IDE and OS
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+Desktop.ini
+
+# Output exports and temporary test outputs
+reports_export/
+*.log
+run_output.txt
